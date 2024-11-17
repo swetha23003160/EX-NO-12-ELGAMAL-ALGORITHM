@@ -1,5 +1,5 @@
-# Develop By : Aparna M
-# Req No : 212223220008
+# Develop By : swetha.M
+# Req No : 212223040223
 # EX-NO-12-ELGAMAL-ALGORITHM
 
 ## AIM:
